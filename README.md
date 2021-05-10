@@ -1,4 +1,4 @@
-# 42_ft_printf
+# 42_ft_printf 
 
 ## 학습목표
 잘 구조화되고 확장가능한 printf함수를 C언어로 구현한다.
